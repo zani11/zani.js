@@ -1,0 +1,2 @@
+# zani.js
+javascript code
